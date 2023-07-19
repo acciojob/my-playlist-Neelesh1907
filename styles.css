@@ -18,10 +18,14 @@ body{
 	width: calc(100vw - 50px);
 	margin-top: 30px;
 	background-color: white;
-	display: flex;
-	flex-direction: column;
-	padding-left: 20px;
+	padding-left: 30px;
 	padding-top: 20px;
+}
+ul{
+	list-style-type: none;
+}
+li{
+	font-size: 5px;
 }
 a{
 	text-decoration: none;
